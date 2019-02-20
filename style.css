@@ -1,0 +1,104 @@
+body {
+  background-color: #35424A;
+  font-family: 'Montserrat', sans-serif;
+  border: 2px;
+  color: #313638;
+  line-height: 1.7;
+}
+
+h1 {
+  font-size: 2em;
+  color: orange;
+  font-family: 'Roboto', sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: #313638;
+}
+
+p {
+  font-size: 1.2em;
+}
+a:hover {
+  color: orange;
+  cursor: pointer;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.card {
+  margin: 1.5% auto;
+  width: 50%;
+  background-color: white;
+  padding: 40px;
+  border-radius: 8px;
+  border: 2px orange solid
+}
+
+#intro, #social-media {
+  text-align: center;
+}
+
+
+.poster {
+  width: 120px;
+}
+
+td p,h3 {
+  padding-top: 0;
+      padding: 0 80px;
+
+}
+
+#profile-image {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  border: 2px orange solid;
+}
+
+
+button {
+  padding: 10px 20px;
+  font-size: 1.5em;
+  color: white;
+  background-color: orange;
+  border: none;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: rgb(255,144,0);
+  cursor: pointer;
+}
+
+#social-media {
+  display: flex;
+  justify-content: space-around;
+}
+
+#social-media a {
+  font-size: 1.5em;
+}
+
+#movies h2 {
+  text-align: center;
+}
+
+#about {
+  text-align: center;
+}
+
+.icons i {
+  padding: 20px 50px;
+}
+
+td h3 {
+  text-align: top;
+}
+
+td {
+}
