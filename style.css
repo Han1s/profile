@@ -107,7 +107,7 @@ td {
 .card-category {
   margin: 50px;
   background-size: cover;
-  background-position: center;
+  background-position: top;
   height: 360px;
   display: flex;
   justify-content: center;
